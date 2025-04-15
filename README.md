@@ -40,17 +40,17 @@ Think of it as a questionable shortcut. ✨
 ## ⚙️ How to Use This Thing
 
 1.  **Get the Script:**
-    * Clone: `git clone <your-repo-url>`
-    * Or download `LazyArr-Stack.sh`.
+    * Clone: `git clone https://github.com/ProlinkX/lazyarr-stack.git`
+    * Or download `wget https://raw.githubusercontent.com/ProlinkX/lazyarr-stack/refs/heads/main/lazyarr-setup.sh`.
 
 2.  **Make it Executable:**
     ```bash
-    chmod +x LazyArr-Stack.sh
+    chmod +x lazyarr-setup.sh
     ```
 
 3.  **Run it (as your regular user!):**
     ```bash
-    ./LazyArr-Stack.sh
+    ./lazyarr-setup.sh
     ```
 
 4.  **Answer the Questions:**
