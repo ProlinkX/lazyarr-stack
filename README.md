@@ -41,7 +41,7 @@ Think of it as a questionable shortcut. ✨
 
 1.  **Get the Script:**
     * Clone: `git clone https://github.com/ProlinkX/lazyarr-stack.git`
-    * Or download `wget https://raw.githubusercontent.com/ProlinkX/lazyarr-stack/refs/heads/main/lazyarr-setup.sh`.
+    * Or download `wget https://raw.githubusercontent.com/ProlinkX/lazyarr-stack/refs/heads/main/lazyarr-setup.sh`
 
 2.  **Make it Executable:**
     ```bash
