@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#GitHub Prolinkx/lazyarr-stack v0.3.2 ---or something close to that.
 # Stop! Error time! If anything breaks, we're outta here. No exceptions.
 set -e
 
